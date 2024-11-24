@@ -1,0 +1,9 @@
+.rotated-image {
+    transform: rotate(-45deg); /* Rotates the image 45 degrees to the right */
+    transition: transform 0.5s ease; /* Optional: Adds smooth transition when rotated */
+  }
+  .rotated-image2{
+    transform: rotate(45deg); /* Rotates the image 45 degrees to the right */
+    transition: transform 0.5s ease; /* Optional: Adds smooth transition when rotated */
+  }
+  
